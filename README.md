@@ -1,2 +1,2 @@
 # Javascript
-works containing Javascript practice
+A collection of small pieces of javascript
